@@ -1,6 +1,8 @@
 # Technical Report: Urban Store Sales Performance Analysis – 2019
+![](DASH1.png)
 ## 1. Introduction
-This report presents an analytical summary of a super Store's sales performance for the year 2019. Using data visualizations and performance metrics, the dashboard helps to understand sales trends, regional and product category performances, and Sales Rep Performance.
+This report presents an analytical sales performance of an imaginary super Store Called **Urban Store**  for the year 2019. the project is to analyze and derive insights to answer crucial questions and help make data-driven decision. Using data visualizations and performance metrics, the dashboard helps to understand sales trends, regional and product category performances, and Sales Rep Performance.
+**_Disclaimer_** _All datasets and reports do not represent any company, institution or country, but just a dummy dataset to demostrate capabilities of Microsoft Excel._
 ## 2. Overview
 The dashboard consolidates sales data to reveal monthly revenue trends and patterns, top-performing cities, product categories, regions, and sales representatives. It enables business stakeholders to identify growth opportunities and operational inefficiencies. The major KPI is Revenue generation.
 ## 3. Problem Statement
@@ -28,21 +30,30 @@ Data quality checks were performed to handle missing values, Null, errors, outli
 •	Invalid or missing city names were corrected.
 
 ## 8. Analysis
-Monthly Trends
+### Trends Analysis
+
+![](Trends.png)
+
 Sales peaked in December ($66,643) and dropped to their lowest in February ($19,956), highlighting potential seasonality or successful year-end campaigns.
-Top City
+Top City.
+### City Performance
+![](City.png)
 New York led all cities with $67,181 in revenue, followed by Portland and Miami, each contributing around $50,000.
-Top Sales Representative
+### Top Sales Representative
+![](Salesrep.png)
 Nancy Freehafer was the top performer with $104,242.34 in sales, indicating both consistent performance and potential leadership qualities.
-Top Product Category
+### Top Product Category
+![](Products.png)
 Beverages accounted for the highest revenue at $110,577.10, followed by Sauces ($69,000) and Jams & Preserves ($51,541.00) and the Lowest being dried fruits. 
-Region Analysis
+### Region Analysis
+![](Region.png)
 The Northern Region led in terms of overall performance with $141,660.34 in sales, followed by:
 •	South: $108,275.51
 •	West: $93,848.33
 •	East: $91,251.98
 This suggests that regional expansion efforts could be prioritized in the South and West, where solid growth potential exists. 
-Customer Analysis
+### Customer Analysis
+![](customers.png)
 Top customers by revenue include:
 •	Company D: $67,181
 •	Company H: $50,198
