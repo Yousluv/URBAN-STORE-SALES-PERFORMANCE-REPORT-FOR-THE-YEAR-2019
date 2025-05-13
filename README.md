@@ -2,11 +2,12 @@
 ![](DASH1.png)
 ## 1. Introduction
 This report presents an analytical sales performance of an imaginary super Store Called **Urban Store**  for the year 2019. the project is to analyze and derive insights to answer crucial questions and help make data-driven decision. Using data visualizations and performance metrics, the dashboard helps to understand sales trends, regional and product category performances, and Sales Rep Performance.
+
 **_Disclaimer_** _All datasets and reports do not represent any company, institution or country, but just a dummy dataset to demostrate capabilities of Microsoft Excel._
 ## 2. Overview
 The dashboard consolidates sales data to reveal monthly revenue trends and patterns, top-performing cities, product categories, regions, and sales representatives. It enables business stakeholders to identify growth opportunities and operational inefficiencies. The major KPI is Revenue generation.
 ## 3. Problem Statement
-Urban Stores seeks to identify the key drivers behind their sales performance, pinpoint underperforming areas (cities and regions), and understand customer and product dynamics. The ultimate goal is to improve strategic planning, product inventory, and regional expansion decisions.
+Urban Stores seeks to identify the key drivers behind their sales performance, pinpoint underperforming areas (cities and regions), and understand customer and product dynamics. The ultimate goal is to improve strategic planning, product inventory, and regional expansion decisions. Analyze the sales data for 2019 and provide report for capturing the items listed below. An excellent report would aid management make strategic decisions for the coming year.
 ## 4. Skills Demonstrated
 •	Data Cleaning and transformation
 •	Dashboard design using Excel
