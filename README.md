@@ -9,19 +9,19 @@ The dashboard consolidates sales data to reveal monthly revenue trends and patte
 ## 3. Problem Statement
 Urban Stores seeks to identify the key drivers behind their sales performance, pinpoint underperforming areas (cities and regions), and understand customer and product dynamics. The ultimate goal is to improve strategic planning, product inventory, and regional expansion decisions. Analyze the sales data for 2019 and provide report for capturing the items listed below. An excellent report would aid management make strategic decisions for the coming year.
 ## 4. Skills Demonstrated
-•	Data Cleaning and transformation
-•	Dashboard design using Excel
-•	Data visualization and storytelling
-•	Business intelligence and KPI development
-•	Analytical reasoning and reporting
+-	Data Cleaning and transformation
+-	Dashboard design using Excel
+-	Data visualization and storytelling
+-	Business intelligence and KPI development
+-	Analytical reasoning and reporting
 ## 5. Data Sources
 The Dataset, containing records of:
-•	Sales amounts
-•	Product categories
-•	Shipping and billing cities
-•	Sales representatives
-•	Customer companies
-•	Transaction dates
+-	Sales amounts
+-	Product categories
+-	Shipping and billing cities
+-	Sales representatives
+-	Customer companies
+-	Transaction dates
 ## 6. Data Preparation
 The data resided in a CVS file and was imported into Excel using the Power Query Capabilities. Each transaction was tagged with attributes such as month, sales region, city, and product category.
 ## 7. Data Profiling and Cleaning
@@ -49,23 +49,23 @@ Beverages accounted for the highest revenue at $110,577.10, followed by Sauces (
 ### Region Analysis
 ![](Region.png)
 The Northern Region led in terms of overall performance with $141,660.34 in sales, followed by:
-•	South: $108,275.51
-•	West: $93,848.33
-•	East: $91,251.98
+-	South: $108,275.51
+-	West: $93,848.33
+-	East: $91,251.98
 This suggests that regional expansion efforts could be prioritized in the South and West, where solid growth potential exists. 
 ### Customer Analysis
 ![](customers.png)
 Top customers by revenue include:
-•	Company D: $67,181
-•	Company H: $50,198
-•	Company BB: $43,703
+-	Company D: $67,181
+-	Company H: $50,198
+-	Company BB: $43,703
 ## 9. Insights Summary
-•	New York is the most profitable city.
-•	Nancy Freehafer is the top-performing sales rep.
-•	Beverages is the best-selling Product category.
-•	The Northern Region is the top sales region.
-•	A small number of customers generate a significant portion of revenue.
-•	Most transactions are in the lower amount ranges ($0–1000), pointing to high-frequency, low-volume sales.
+-	New York is the most profitable city.
+-	Nancy Freehafer is the top-performing sales rep.
+-	Beverages is the best-selling Product category.
+-	The Northern Region is the top sales region.
+-	A small number of customers generate a significant portion of revenue.
+-	Most transactions are in the lower amount ranges ($0–1000), pointing to high-frequency, low-volume sales.
 
 ## 10. Recommendations
 1.	Expand in strong regions like the North and South, leveraging their high revenue performance.
